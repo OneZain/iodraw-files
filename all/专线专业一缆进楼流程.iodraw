@@ -126,14 +126,11 @@
         <mxCell id="y0vC8h4etIqEpCK2QJAG-23" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="262" y="933" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="y0vC8h4etIqEpCK2QJAG-27" value="PMS系统" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="718" y="900" width="70" height="28" as="geometry" />
-        </mxCell>
         <mxCell id="y0vC8h4etIqEpCK2QJAG-29" value="推送PMS需求池" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="500" y="933" width="106" height="28" as="geometry" />
         </mxCell>
         <mxCell id="y0vC8h4etIqEpCK2QJAG-31" value="PMS系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A9C4EB;" vertex="1" parent="1">
-          <mxGeometry x="487" y="478" width="136" height="94" as="geometry" />
+          <mxGeometry x="628" y="920" width="234" height="132" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
