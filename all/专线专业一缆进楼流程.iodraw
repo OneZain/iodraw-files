@@ -4,17 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="QK4VO238OFGkq3UfskVb-2" value="BOP系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFD966;" parent="1" vertex="1">
-          <mxGeometry x="18" y="220" width="88" height="45" as="geometry" />
-        </mxCell>
         <mxCell id="QK4VO238OFGkq3UfskVb-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" parent="1" vertex="1">
           <mxGeometry x="224" y="84" width="658" height="298" as="geometry" />
-        </mxCell>
-        <mxCell id="QK4VO238OFGkq3UfskVb-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.003;entryY=0.533;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="QK4VO238OFGkq3UfskVb-2" target="QK4VO238OFGkq3UfskVb-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="QK4VO238OFGkq3UfskVb-7" value="派发专线工单" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="116" y="213" width="92" height="28" as="geometry" />
         </mxCell>
         <mxCell id="QK4VO238OFGkq3UfskVb-8" value="规划建设数智化系统" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="458" y="86" width="126" height="35" as="geometry" />
