@@ -64,6 +64,9 @@
         <mxCell id="y0vC8h4etIqEpCK2QJAG-3" value="计划建设管理系统" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-118" y="106" width="116" height="28" as="geometry" />
         </mxCell>
+        <mxCell id="y0vC8h4etIqEpCK2QJAG-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="y0vC8h4etIqEpCK2QJAG-4" target="y0vC8h4etIqEpCK2QJAG-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="y0vC8h4etIqEpCK2QJAG-4" value="起草" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-302" y="150" width="120" height="60" as="geometry" />
         </mxCell>
@@ -73,8 +76,8 @@
         <mxCell id="y0vC8h4etIqEpCK2QJAG-8" value="省计划建设部接口人审批" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-48" y="256" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="y0vC8h4etIqEpCK2QJAG-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-56" y="150" width="120" height="60" as="geometry" />
+        <mxCell id="y0vC8h4etIqEpCK2QJAG-9" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-48" y="150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
