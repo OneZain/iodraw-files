@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="AYo_rgwSqrklB0scbn_6">
-    <mxGraphModel dx="1050" dy="530" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="624" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -54,11 +54,6 @@
         </mxCell>
         <mxCell id="QK4VO238OFGkq3UfskVb-23" value="四级经理审批" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="686" y="278" width="94" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="QK4VO238OFGkq3UfskVb-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="QK4VO238OFGkq3UfskVb-14" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="784" y="353" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="QK4VO238OFGkq3UfskVb-37" value="PMS系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A9C4EB;" parent="1" vertex="1">
           <mxGeometry x="990" y="195.5" width="136" height="94" as="geometry" />
