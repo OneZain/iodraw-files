@@ -82,8 +82,8 @@
         <mxCell id="Ka3gVCtnl2zoW3JHoYWC-4" value="计划建设系统" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-150" y="206" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ka3gVCtnl2zoW3JHoYWC-7" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-115" y="158" width="50" height="30" as="geometry" />
+        <mxCell id="Ka3gVCtnl2zoW3JHoYWC-7" value="派发待建池工单" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="158" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
