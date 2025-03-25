@@ -59,7 +59,7 @@
           <mxGeometry x="672" y="412" width="94" height="30" as="geometry" />
         </mxCell>
         <mxCell id="j-OhpzBmjW_wf7e4hTCI-72" value="PMS系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A9C4EB;" parent="1" vertex="1">
-          <mxGeometry x="495" y="530" width="136" height="94" as="geometry" />
+          <mxGeometry x="481" y="530" width="136" height="94" as="geometry" />
         </mxCell>
         <mxCell id="j-OhpzBmjW_wf7e4hTCI-74" value="推送PMS需求池" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="100" y="520" width="106" height="28" as="geometry" />
