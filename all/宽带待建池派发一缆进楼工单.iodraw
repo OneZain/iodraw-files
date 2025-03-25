@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="j-OhpzBmjW_wf7e4hTCI-51" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" parent="1" vertex="1">
-          <mxGeometry x="206" y="158" width="658" height="298" as="geometry" />
+          <mxGeometry x="206" y="172.5" width="658" height="298" as="geometry" />
         </mxCell>
         <mxCell id="j-OhpzBmjW_wf7e4hTCI-54" value="规划建设数智化系统" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="440" y="160" width="126" height="35" as="geometry" />
@@ -74,6 +74,9 @@
           <mxGeometry x="-160" y="84" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ka3gVCtnl2zoW3JHoYWC-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ka3gVCtnl2zoW3JHoYWC-3" target="j-OhpzBmjW_wf7e4hTCI-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ka3gVCtnl2zoW3JHoYWC-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ka3gVCtnl2zoW3JHoYWC-3" target="j-OhpzBmjW_wf7e4hTCI-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ka3gVCtnl2zoW3JHoYWC-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
