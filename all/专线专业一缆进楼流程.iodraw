@@ -110,7 +110,10 @@
           <mxGeometry x="-190" y="933" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y0vC8h4etIqEpCK2QJAG-22" value="市规划专员审核" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-12" y="933" width="120" height="60" as="geometry" />
+          <mxGeometry x="10" y="933" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y0vC8h4etIqEpCK2QJAG-23" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="262" y="933" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
