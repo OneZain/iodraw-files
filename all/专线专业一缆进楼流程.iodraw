@@ -47,10 +47,7 @@
           <mxGeometry x="686" y="278" width="94" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QK4VO238OFGkq3UfskVb-37" value="PMS系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A9C4EB;" parent="1" vertex="1">
-          <mxGeometry x="990" y="195.5" width="136" height="94" as="geometry" />
-        </mxCell>
-        <mxCell id="QK4VO238OFGkq3UfskVb-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.017;entryY=0.405;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="QK4VO238OFGkq3UfskVb-5" target="QK4VO238OFGkq3UfskVb-37" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="485" y="476" width="136" height="94" as="geometry" />
         </mxCell>
         <mxCell id="QK4VO238OFGkq3UfskVb-39" value="推送PMS需求池" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="884" y="206" width="106" height="28" as="geometry" />
