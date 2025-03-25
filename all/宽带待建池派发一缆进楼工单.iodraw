@@ -8,7 +8,7 @@
           <mxGeometry x="220" y="172.5" width="658" height="298" as="geometry" />
         </mxCell>
         <mxCell id="j-OhpzBmjW_wf7e4hTCI-54" value="规划建设数智化系统" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="440" y="160" width="126" height="35" as="geometry" />
+          <mxGeometry x="495" y="172.5" width="126" height="35" as="geometry" />
         </mxCell>
         <mxCell id="j-OhpzBmjW_wf7e4hTCI-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="j-OhpzBmjW_wf7e4hTCI-57" target="j-OhpzBmjW_wf7e4hTCI-59" edge="1">
           <mxGeometry relative="1" as="geometry" />
