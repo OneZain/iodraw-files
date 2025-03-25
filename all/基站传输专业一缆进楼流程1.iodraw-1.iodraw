@@ -16,6 +16,11 @@
         <mxCell id="j-OhpzBmjW_wf7e4hTCI-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="j-OhpzBmjW_wf7e4hTCI-57" target="j-OhpzBmjW_wf7e4hTCI-66" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="i3rBbsyt9m2qr99D6oRY-1" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="j-OhpzBmjW_wf7e4hTCI-56">
+          <mxGeometry x="-0.4189" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="j-OhpzBmjW_wf7e4hTCI-57" value="项目经理起草" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="244" y="220" width="94" height="30" as="geometry" />
         </mxCell>
