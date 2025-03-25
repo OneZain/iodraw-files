@@ -100,7 +100,7 @@
         <mxCell id="y0vC8h4etIqEpCK2QJAG-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="y0vC8h4etIqEpCK2QJAG-18" target="y0vC8h4etIqEpCK2QJAG-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="y0vC8h4etIqEpCK2QJAG-18" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF66;" vertex="1" parent="1">
+        <mxCell id="y0vC8h4etIqEpCK2QJAG-18" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-216" y="814" width="704" height="298" as="geometry" />
         </mxCell>
         <mxCell id="y0vC8h4etIqEpCK2QJAG-19" value="规划建设数智化系统" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
