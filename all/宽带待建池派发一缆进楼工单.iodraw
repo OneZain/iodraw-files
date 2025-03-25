@@ -59,7 +59,7 @@
           <mxGeometry x="690" y="338" width="94" height="30" as="geometry" />
         </mxCell>
         <mxCell id="j-OhpzBmjW_wf7e4hTCI-72" value="PMS系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A9C4EB;" parent="1" vertex="1">
-          <mxGeometry x="990" y="195.5" width="136" height="94" as="geometry" />
+          <mxGeometry x="485" y="510" width="136" height="94" as="geometry" />
         </mxCell>
         <mxCell id="j-OhpzBmjW_wf7e4hTCI-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.017;entryY=0.405;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="j-OhpzBmjW_wf7e4hTCI-51" target="j-OhpzBmjW_wf7e4hTCI-72" edge="1">
           <mxGeometry relative="1" as="geometry" />
