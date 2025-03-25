@@ -70,8 +70,17 @@
         <mxCell id="y0vC8h4etIqEpCK2QJAG-4" value="起草" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-302" y="150" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="y0vC8h4etIqEpCK2QJAG-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="y0vC8h4etIqEpCK2QJAG-7" target="y0vC8h4etIqEpCK2QJAG-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y0vC8h4etIqEpCK2QJAG-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="y0vC8h4etIqEpCK2QJAG-7" target="y0vC8h4etIqEpCK2QJAG-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="y0vC8h4etIqEpCK2QJAG-7" value="中心经理审批" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-302" y="256" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y0vC8h4etIqEpCK2QJAG-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="y0vC8h4etIqEpCK2QJAG-8" target="y0vC8h4etIqEpCK2QJAG-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="y0vC8h4etIqEpCK2QJAG-8" value="省计划建设部接口人审批" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-48" y="256" width="120" height="60" as="geometry" />
